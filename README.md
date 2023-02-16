@@ -1,6 +1,4 @@
 # paia
 4A-CEEP-INFO
-<BR>
- <h1>seja bem vindo<\h1> 
- <BR>
+ seja bem vindo
   aqui você verá desordem bagunça e pitadas de humor sem humor
