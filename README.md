@@ -3,7 +3,7 @@
 <br>
 <4A-CEEP-INFO - GABRIEL HENRIQUE MOREIRA DE SOUZA BUENO>
 
-seja bem vindo ao projeto DI-GASPARINI MODAS. O projeto será atualizado somente  
+seja bem vindo ao projeto DI-GASPARINI MODAS. O projeto será atualizado somente aqui.
 
 <br>
 aqui você verá desordem bagunça e pitadas de humor sem humor
